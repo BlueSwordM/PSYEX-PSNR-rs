@@ -1,7 +1,11 @@
 [package]
 name = "PXNR"
 version = "0.0.1"
+authors = ["Zak Djeb <zakdjeb@gmail.com>"]
 edition = "2022"
+description = "A psycho-visually Exotic version of PSNR"
+license = "BSD-3-Clause"
+repository = "https://github.com/BlueSwordM/PXNR-rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
