@@ -1,8 +1,8 @@
-# PXNR: Psycho-visually Exotic PSNR
+# PSYEX-PSNR: Psychovisually Exotic PSNR
 
 ## Overview
 
-PXNR or Psycho-visually Exotic PSNR is a PSNR based metric that takes the metric's main strength(low computational complexity) and extends it further to make it correlate much more heavily with the Human Visual System(HVS) and general human opinions.
+PSYEX-PSNR or Psychovisually Exotic PSNR is a PSNR based metric that takes the metric's main strength(low computational complexity) and extends it further to make it correlate much more heavily with the Human Visual System(HVS) and general human opinions.
 
 This is based on multiple parts to make the metric as robust as possible:
 
